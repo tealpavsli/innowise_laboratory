@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+[project]
+name = "innowise_lecture_1"
+version = "0.1.0"
+dependencies = ["colorama>=0.4.6"]
