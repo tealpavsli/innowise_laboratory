@@ -1,0 +1,4 @@
+[project]
+name = "student_grade_analyzer"
+version = "1.0.0"
+description = "CLI program for managing and analyzing student grades"
